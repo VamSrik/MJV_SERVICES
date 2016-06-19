@@ -1,0 +1,31 @@
+1) Can’t Log Out    (4hrs)
+
+2) Home Page on Mobile - Menu (8hrs)
+
+3) Home Page on Mobile – Logo Size (2hrs)
+
+4) Mobile, Add to Cart from family page (5hrs)
+
+5) Pop up messages – Make avail to Ola for editing  (4hrs)
+Current method:  edit website xml config files, 
+suggest we keep this with Dev team.
+
+6) Default Add to Cart Qty 1 OR--- Change Add to cart pop-up message (6hrs)
+
+7) Image squished on Mobile – Product Family Pages (2hrs)
+
+8) Email opt-in at checkout (Part of SDK Trng 1, custom controller) (8hrs)
+
+9) Change “Coupon Code” to “Promo Code” (edit website xml config files) (20 mints)
+
+10) Change wording below product images (edit website xml config files) (1 hr)
+
+11) Store Locator: Change wording (edit website xml config files) (30 mints)
+
+12) Store Locator Results: Change wording (edit website xml config files) (30 mints)
+
+13) Creating an Account, reorder fields (1 hr)
+
+14) Contact Us: Move last name under first (30 mints)
+
+15) Contact Us: Change “Enterprise” to “Company” (20 mints)
